@@ -5,6 +5,8 @@
    text-align: center;
    border-radius: 1em;}
 
+container
+
  #nav ul{list-style: none;
     display: inline-block;}
 
@@ -106,6 +108,19 @@ aside
     height: 90px;
     padding: 20px;}
 
-	
+aside2           
+{width: 250px;
+    height: 500px;
+    background-color: #F2B80D;
+    margin-top: 10px;
+    float: left;
+    border-radius: 1em;
+    text-align: center;}
+
+    aside2  h2
+   
+    {font-size: 30px;
+        text-align: center;
+        line-height: 500px;}
 
 
