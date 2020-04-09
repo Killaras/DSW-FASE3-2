@@ -113,14 +113,14 @@ aside2
     height: 300px;
     background-color: #F2B80D;
     margin-top: 10px;
-    float: left;
+    float: right;
     border-radius: 1em;
-    text-align: justify;}
+    text-align: right;}
 
     aside2  h2
    
     {font-size: 30px;
-        text-align: justify;
+        text-align: right;
         line-height: 300px;}
 
 
