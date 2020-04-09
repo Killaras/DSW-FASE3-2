@@ -110,17 +110,17 @@ aside
 
 aside2           
 {width: 250px;
-    height: 500px;
+    height: 300px;
     background-color: #F2B80D;
     margin-top: 10px;
     float: left;
     border-radius: 1em;
-    text-align: center;}
+    text-align: justify;}
 
     aside2  h2
    
     {font-size: 30px;
-        text-align: center;
-        line-height: 500px;}
+        text-align: justify;
+        line-height: 300px;}
 
 
