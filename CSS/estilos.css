@@ -1,3 +1,67 @@
+{
+    margin:0px;
+    padding:5px;
+}
+
+
+
+
+
+
+#mainn
+{
+	margin: auto;
+	width: 240px;
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+ul,ol 
+{
+	list-style: none;
+}
+
+.navegadoriz li a
+{
+	background-color: #F2B80D;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+}
+.navegadoriz li a:hover
+{
+	background-color: #006680;
+	
+}
+
+
+
+.navegadoriz > li
+{
+	float: unset;
+	padding: 1px 1px;
+	display: block;
+}
+
+.navegadoriz li ul
+{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+	
+}
+
+.navegadoriz li:hover > ul 
+{
+	display: block;
+	position: left;
+	min-width: 140px;
+	
+}
+
+
+
 <section class="presentation">
 {display:block;}
  #nav{height: 62px;
