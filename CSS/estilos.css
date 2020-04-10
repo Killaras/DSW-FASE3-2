@@ -62,20 +62,6 @@ border-radius: 1em;}
                           vertical-align: middle;
                         text-align: center;
                         font-size: 2rem;}
-H1 {
-  text-align: center;
-}
-H2{
-  text-align: right;
-}
-H2{
-  text-align: left;
-}
-p1{background-color: dodgerblue;
-	display: inline-block;
-	max-width: 10%;	 }
-	  .presentation
-	  {margin: inherit;background-color: gray;display: inline-block;max-width: 100%;}
 
 aside           
 {width: 250px;
