@@ -151,26 +151,5 @@ aside
     text-decoration: none; color: black;}
 
 
-        footer{background: #000;
-            clear: both;
-            border-radius: 1em;
-            text-align: center;
-    height: 90px;
-    padding: 20px;}
-
-.aside2           
-{width: 250px;
-    height: 300px;
-    background-color: #F2B80D;
-    margin-top: 10px;
-    float: right;
-    border-radius: 1em;
-    text-align: right;}
-
-    aside2  h2
-   
-    {font-size: 30px;
-        text-align: right;
-        line-height: 300px;}
 
 
