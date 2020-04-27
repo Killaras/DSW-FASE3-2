@@ -47,46 +47,6 @@ ul,ol
 	list-style: none;
 }
 
-.navegadoriz li a
-{
-	background-color: #F2B80D;
-	color: #fff;
-	text-decoration: none;
-	padding: 10px 15px;
-	display: block;
-}
-.navegadoriz li a:hover
-{
-	background-color: #006680;
-	
-}
-
-
-
-.navegadoriz > li
-{
-	float: unset;
-	padding: 1px 1px;
-	display: block;
-}
-
-.navegadoriz li ul
-{
-	display: none;
-	position: absolute;
-	min-width: 140px;
-	
-}
-
-.navegadoriz li:hover > ul 
-{
-	display: block;
-	position: left;
-	min-width: 140px;
-	
-}
-
-
 .dropbtn {
   background-color: #3544a6;
   color: white;
@@ -173,7 +133,7 @@ text-align: center;
 
             #contenido
             {
-                width: 1090;
+                width: 1090px;
                 height: 500px;
                 float: right;
                 background-color: #006680;
@@ -184,7 +144,7 @@ text-align: center;
                 }
 #contenido2
             {
-                width: 1090;
+                width: 1090px;
                 height: 1300px;
                 float: right;
                 background-color: #006680;
